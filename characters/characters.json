@@ -245,6 +245,18 @@
       "species": ["Demigod"],
       "gender": "Male",
       "about": "Deimos was the younger brother of Kratos. He was abducted by Ares during his childhood to avert a prophecy about the destruction of Mount Olympus. He was then tortured by Thanatos, God of Death for years in the Domain of Death. After he came of age in the Domain of Death, Deimos was fueled by hatred for the brother who had failed to save him from his torment. After Deimos was rescued by Kratos, and still held initial resentment toward him, he ultimately reconciled with his brother and joined forces with him to battle Thanatos only to be killed by the Death God. That was not unavenged, however, as Kratos killed Thanatos shortly after. His death was the final straw which lead to Kratos snapping at the gods and vowing to kill them.",
-      "quote":"Did you think I would forget? Did you think that I would forgive? I will never forgive you, brother!"
+      "quote": "Did you think I would forget? Did you think that I would forgive? I will never forgive you, brother!"
+  },
+  {
+    "id": 16,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/a/a7/Thanatos.jpg/revision/latest?cb=20101118232231",
+    "character": "Thanatos",
+    "voiceActor": "Arthur Burghardt",
+    "appearsIn": ["God of War: Ghost of Sparta"],
+    "Alias/es": ["God of Death"],
+      "species": ["Primordials", "Gods"],
+      "gender": "Male",
+      "about": "Thanatos is the Greek Primordial God of Death, and the main antagonist in God of War: Ghost of Sparta. He is the ruler of the Domain of Death and the father of Erinys.",
+      "quote": "None"
   }
 ] 
