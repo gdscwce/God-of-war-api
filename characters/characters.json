@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": 1,
     "img": "https://upload.wikimedia.org/wikipedia/en/6/60/Kratos_PS4.jpg",
@@ -223,5 +223,16 @@
       "gender": "Male",
       "about": "Ares was the original Olympian God of War, the son of Zeus and Hera and the main antagonist of God of War, as well as the perpetrator behind the events of God of War: Ascension",
       "quote":"I have taught you many ways to kill a mortal, Kratos. Flesh that burns, bones that break. But to break a man's spirit, is to truly destroy him."
+  },
+{
+      "id": 14,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/6/61/Colossus_complete.jpg/revision/latest/scale-to-width-down/611?cb=20101014145747",
+      "character": "Colossus of Rhodes",
+      "voiceActor": "None",
+      "appearsIn": ["God of War 2"],
+      "Alias/es":[" Furies"]
+      "gender": "Male",
+      "about": "he Colossus was the first boss in God of War II, brought to life by Zeus (in the form of an Eagle) in an attempt to destroy Kratos. The King of the Gods drained nearly all of Kratos' power and gave it to the statue to animate it, and it immediately broke free of its moorings and strode into the city",
+      "quote":"None"
   }
 ] 
