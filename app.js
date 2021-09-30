@@ -1,14 +1,20 @@
 const express = require('express');
 const app = express();
-const {randomCharacter,character_func} = require('./functions');
+const {randomCharacter,character_func,allCharacters} = require('./functions');
 
 app.use(express.static('./public'));
+
 app.get("/", (req, res)=>{
   res.sendFile(__dirname+"/index.html");
 });
 app.get("/characters/random",(req,res) => {
   res.json(randomCharacter());
 })
+
+app.get("/characters",(req,res) => {
+  res.json(allCharacters());
+})
+
 app.get("/characters/:character",(req,res) => {
   const {character} = req.params;
   res.json(character_func(character));

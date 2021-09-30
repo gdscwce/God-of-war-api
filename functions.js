@@ -14,4 +14,8 @@ const character_func = (charName) => {
     }
 }
 
-module.exports = {randomCharacter, character_func};
+const allCharacters = () => {
+  return characters;
+}
+
+module.exports = {randomCharacter, character_func,allCharacters};
