@@ -203,5 +203,25 @@
         "gender": "Male",
         "about": "Odin (Old Norse: Óðinn), also known as the Allfather, is the Norse God of the Sky, War, Death, Wisdom, Poetry, and Magic, the King of Asgard, the King of the Aesir Gods, and the overarching antagonist in the Norse era of God of War.",
         "quote":"NA"
+  },{
+      "id": 12,
+      "img": "https://www.google.com/search?q=Calliope&sa=X&rlz=1C5CHFA_enIN962IN962&stick=H4sIAAAAAAAAAE2Tv2_TQBTH40DT1G1R4hYJIiRCxFAqQexz7NosrVR1QLRClCxISJZ_O_H59xHHYWNjQwiVjUpMHfgHYIAKJjIAAqlsqCAWpoqtYqAk7V3ayR_d-773vvfuuThWm67bdY6zHcXqgDQDZ-3AqAZWNVXjqu6osaojM076FF336ixv8G2906dIDrJEJ5H6VHEYlKTQ71PjQ0zlAU0MiQsF0SKM0jTCYk7uiRjdKAoxLrQFG2PDzXSMntAjPeSo0cA9vDAkdf1UR1jAR11A6saZhxE0Eo0IYiBgFLnYJ4Ks08Wox16GEcoCJGk2T-yA2GP71ORwBIBnO7JIinii5ZBMViE2gGxp2Kjh83qbNAcgJeJexJNTN5FH42URFF3WG6l8YtF1tARjWzGk4_dQLKUHLBwSEpuMDS4A_oTK5iTIjmoZgISswQpYIodOOtAc5GH7GhLtLrk563FcRFwIYi876WK4SThkO3F3VF80oLIQkh2AokQenveR9pPayk-Wfu9_n6k8zz95-WGHepanS6tBkJgwWzehikyjGTDX6MKKj1ooY85UpujDtRQcruMpYJY-auOKru4YUlja3N2gGJ2evGOiZrAWGC0rY5rMOj2xZnraYKtvWQyg6eUAQlNHrcBnLldqdLWujw7qVuvwq0Ll-F-oTa8fTU7ogG0qfz0_l6_5QHn9ZeNj4W551s7lft27vVS5Ms_Q4zeS1UBXYfnpg8-b9__tLc7P0MWm2g38wMvKr95f2D442FusXZo4_62-9OfTj8Xyo5v7F1euMtvnTlVzcznu6874bkH5-3Y-N-j08M3Wu8LpIlXKTb0YKy6rELaC0HxcoP4DppBXlcYDAAA&sxsrf=AOaemvJtAZY1SYkTewJ_W7oMlmOD57SPHw:1633022352401&tbm=isch&source=iu&ictx=1&fir=RYW5T2wmtA0l4M%252C2SzTZvA6r5pU6M%252C%252Fg%252F11gh_fv2wy&vet=1&usg=AI4_-kSiwbXt4uLtqn7HN3RU0svdO2fRVQ&ved=2ahUKEwiV6uOpmqfzAhVsyjgGHbfmAK0Q_B16BQhDEMQB#imgrc=RYW5T2wmtA0l4M",
+      "character": "Calliope",
+      "voiceActor": "Natalie Palamides",
+      "appearsIn": ["God of War (2018)"],
+      "Alias/es":["Sweaty Bawbag (Mimir)",
+        "Biggest Butchering Bastard in the 9 Realms (Mimir)",
+      "Big Idiot (Brok)",
+      "Fat Dobber (Mimir)",
+      "Thunder Lummox (Mimir)",
+      "Brother (Baldur)",
+      "Father (Magni & Modi)",
+      "Fool (Kratos)",
+      "Idiot (Atreus)"],
+        "species":["1/2 Jötunn",
+          "1/2 God (Aesir)"],
+        "gender": "Female",
+        "about": "Calliope was the beloved daughter of Kratos and Lysandra. She, along with her mother, were unknowingly killed by Kratos as part of Ares' plot to harden Kratos' heart and make him a more powerful warrior in the process.",
+        "quote":"Hephaestus Did What Every Father Should: Protect His Child."
     }
 ] 
