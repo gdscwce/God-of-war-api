@@ -191,5 +191,17 @@
         "gender": "Male",
         "about": "Thor (Old Norse: Þórr) is the Norse Aesir God of thunder, lightning, storms, and strength. He is the son of Odin and Fjörgyn, husband of Sif, brother of Meili, half-brother of Baldur, Týr, Hodr, and Bragi, and the father of Magni, Modi, and a daughter.",
         "quote":"You seem like a calm and reasonable person. Are you a calm and reasonable person? –Thor, God of War: Ragnarök"
+    },
+  {
+      "id": 11,
+      "img": "https://static.wikia.nocookie.net/godofwar/images/0/02/7AB7D482-3155-4493-BC4C-39DE987DE45F.jpeg/revision/latest?cb=20181102222512",
+      "character": "Odin",
+      "voiceActor": "Richard Schiff",
+      "appearsIn": ["God of War (2018)"],
+      "Alias/es":["One-Eyed King"],
+        "species":["God"],
+        "gender": "Male",
+        "about": "Odin (Old Norse: Óðinn), also known as the Allfather, is the Norse God of the Sky, War, Death, Wisdom, Poetry, and Magic, the King of Asgard, the King of the Aesir Gods, and the overarching antagonist in the Norse era of God of War.",
+        "quote":"NA"
     }
 ] 
