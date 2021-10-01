@@ -276,8 +276,21 @@
       "about": "Athena was the Olympian Goddess of Wisdom and War, and serves as the overall Deuteragonist of the Greek Era of God of War Series, who mostly appeared as an ally of Kratos.",
       "quote": "There's nowhere you can hide, Spartan. Put as much distance between you and the truth as you want, it changes nothing. Pretend to be everything you are not: teacher, husband, father. But there is one unavoidable truth you will never escape: You cannot change. You will always be... a monster."
   },
-  {
+   {
     "id": 18,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/c/cb/T%C3%BDr.png/revision/latest/scale-to-width-down/350?cb=20210910150922",
+    "character": "Týr",
+    "voiceActor": "Ben Prendergast",
+    "appearsIn": ["God of War(2018)",
+      "God of War: Ragnarök"],
+    "Alias/es": ["God of War, Law, Justice"],
+      "species": ["God(Aesir)"],
+      "gender": "Male",
+      "about": "Týr is the Norse God of War, Law, and Honor, a son of Odin, half-brother of Thor, Meili, Baldur, Hodr, and Bragi and paternal uncle of Magni and Modi.",
+      "quote": "N/A"
+  },
+  {
+  "id": 19,
     "img": "",
     "character": "Odin",
     "voiceActor": "Richard Schiff",
