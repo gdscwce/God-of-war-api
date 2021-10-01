@@ -275,5 +275,17 @@
       "gender": "Female",
       "about": "Athena was the Olympian Goddess of Wisdom and War, and serves as the overall Deuteragonist of the Greek Era of God of War Series, who mostly appeared as an ally of Kratos.",
       "quote": "There's nowhere you can hide, Spartan. Put as much distance between you and the truth as you want, it changes nothing. Pretend to be everything you are not: teacher, husband, father. But there is one unavoidable truth you will never escape: You cannot change. You will always be... a monster."
+  },
+  {
+    "id": 18,
+    "img": "",
+    "character": "Odin",
+    "voiceActor": "Richard Schiff",
+    "appearsIn": ["God of War (2018)"],
+    "Alias/es": ["One-Eyed King"],
+      "species": ["God (Aesir)"],
+      "gender": "Male",
+      "about": "Odin, also known as Woden and Wotan, was the Chief God of Norse mythology. Odin appeared in heroic literature as the protector of heroes; fallen warriors joined him in Valhalla.",
+      "quote": "Ruthless? Barbaric? Heartless? That's Odin."
   }
 ] 
