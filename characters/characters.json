@@ -258,5 +258,22 @@
       "gender": "Male",
       "about": "Thanatos is the Greek Primordial God of Death, and the main antagonist in God of War: Ghost of Sparta. He is the ruler of the Domain of Death and the father of Erinys.",
       "quote": "None"
+  },
+  {
+    "id": 17,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/0/08/AndyPark_GOW3_27.jpg/revision/latest/scale-to-width-down/700?cb=20100710202036",
+    "character": "Athena",
+    "voiceActor": "Carole Ruggier",
+    "appearsIn": ["God of War: Chains of Olympus",
+      "God of War",
+      "God of War: Ghost of Sparta",
+      "God of War II",
+      "God of War III",
+      "God of War (2018)"],
+    "Alias/es": ["Goddess of War, Civilization, Wisdom, Strategy, Craft, Justice, and Skill."],
+      "species": ["Half God | Half Titan (Formerly)", "Astral Form"],
+      "gender": "Female",
+      "about": "Athena was the Olympian Goddess of Wisdom and War, and serves as the overall Deuteragonist of the Greek Era of God of War Series, who mostly appeared as an ally of Kratos.",
+      "quote": "There's nowhere you can hide, Spartan. Put as much distance between you and the truth as you want, it changes nothing. Pretend to be everything you are not: teacher, husband, father. But there is one unavoidable truth you will never escape: You cannot change. You will always be... a monster."
   }
 ] 
