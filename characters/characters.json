@@ -288,5 +288,17 @@
       "gender": "Male",
       "about": "Týr is the Norse God of War, Law, and Honor, a son of Odin, half-brother of Thor, Meili, Baldur, Hodr, and Bragi and paternal uncle of Magni and Modi.",
       "quote": "N/A"
+  },
+  {
+  "id": 19,
+    "img": "",
+    "character": "Odin",
+    "voiceActor": "Richard Schiff",
+    "appearsIn": ["God of War (2018)"],
+    "Alias/es": ["One-Eyed King"],
+      "species": ["God (Aesir)"],
+      "gender": "Male",
+      "about": "Odin, also known as Woden and Wotan, was the Chief God of Norse mythology. Odin appeared in heroic literature as the protector of heroes; fallen warriors joined him in Valhalla.",
+      "quote": "Ruthless? Barbaric? Heartless? That's Odin."
   }
 ] 
