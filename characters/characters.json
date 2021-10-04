@@ -300,5 +300,17 @@
       "gender": "Male",
       "about": "Odin, also known as Woden and Wotan, was the Chief God of Norse mythology. Odin appeared in heroic literature as the protector of heroes; fallen warriors joined him in Valhalla.",
       "quote": "Ruthless? Barbaric? Heartless? That's Odin."
+  },
+   {
+  "id": 20,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/d/d3/God%2BHermes%2B-%2Bthe%2Bmessenger%2Bgod%2Bof%2BOlympus%2Band%2Bgod%2Bof%2BTravelers%2C%2BSpeed%2C%2BCommerce%2Band%2BThievery.jpg/revision/latest/scale-to-width-down/350?cb=20101206071335",
+    "character": "Hermes",
+    "voiceActor": "Hermes",
+    "appearsIn": ["God of WarII","God of WarIII"],
+    "Alias/es": ["Messenger of the Gods"],
+      "species": ["God"],
+      "gender": "Male",
+      "about": "Hermes is the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. He is the son of the King of Olympus Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mt. Olympus..",
+      "quote": "	I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
   }
 ] 
