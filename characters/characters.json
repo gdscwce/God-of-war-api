@@ -312,5 +312,17 @@
       "gender": "Male",
       "about": "Hermes is the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. He is the son of the King of Olympus Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mt. Olympus..",
       "quote": "	I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
+  },
+    {
+  "id": 21,
+    "img": "https://static.wikia.nocookie.net/godofwar/images/f/f2/Poseidon_-_Ascension_textless.jpg/revision/latest/scale-to-width-down/350?cb=20191006223554",
+    "character": "Poseidon",
+    "voiceActor": "Gideon Emery",
+    "appearsIn": ["God of WarII","God of WarIII"],
+    "Alias/es": ["King of the Seas", "The Ocean God", "Earth-Shaker", "The Mighty Poseidon", "Father of Horses", "Ruler of Atlantis"],
+      "species": ["God"],
+      "gender": "Male",
+      "about": "Poseidon is the Olympian God of the seas, rivers, water, storms, tempests, winds, hurricanes, rain, floods, drought, earthquakes and horses. He also is the King of the Oceans and Atlantis. In terms of power, he is surpassed in eminence only by his brother Zeus, with his other brother, Hades, being his equal. He appears as an ally in God of War and a major antagonist in God of War III.",
+      "quote": "You have disrespected the Gods for the last time, Kratos!	"
   }
 ] 
