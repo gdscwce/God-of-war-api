@@ -301,7 +301,7 @@
       "about": "Odin, also known as Woden and Wotan, was the Chief God of Norse mythology. Odin appeared in heroic literature as the protector of heroes; fallen warriors joined him in Valhalla.",
       "quote": "Ruthless? Barbaric? Heartless? That's Odin."
   },
-   {
+  {
   "id": 20,
     "img": "https://static.wikia.nocookie.net/godofwar/images/d/d3/God%2BHermes%2B-%2Bthe%2Bmessenger%2Bgod%2Bof%2BOlympus%2Band%2Bgod%2Bof%2BTravelers%2C%2BSpeed%2C%2BCommerce%2Band%2BThievery.jpg/revision/latest/scale-to-width-down/350?cb=20101206071335",
     "character": "Hermes",
@@ -311,9 +311,9 @@
       "species": ["God"],
       "gender": "Male",
       "about": "Hermes is the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. He is the son of the King of Olympus Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mt. Olympus..",
-      "quote": "	I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
+      "quote": "I thought Spartans fought with honor. And yet you seek to kill me when I have no way to defend myself? Not fair! But you have your own sense of honor, right, Kratos? And what has that honor brought you? Nothing but nightmares of your failure. Today you may defeat me, but in the end, Kratos, in the end you'll betray only yourself.."
   },
-    {
+  {
   "id": 21,
     "img": "https://static.wikia.nocookie.net/godofwar/images/f/f2/Poseidon_-_Ascension_textless.jpg/revision/latest/scale-to-width-down/350?cb=20191006223554",
     "character": "Poseidon",
@@ -323,6 +323,18 @@
       "species": ["God"],
       "gender": "Male",
       "about": "Poseidon is the Olympian God of the seas, rivers, water, storms, tempests, winds, hurricanes, rain, floods, drought, earthquakes and horses. He also is the King of the Oceans and Atlantis. In terms of power, he is surpassed in eminence only by his brother Zeus, with his other brother, Hades, being his equal. He appears as an ally in God of War and a major antagonist in God of War III.",
-      "quote": "You have disrespected the Gods for the last time, Kratos!	"
-  }
+      "quote": "You have disrespected the Gods for the last time, Kratos!"
+  },
+  {
+    "id": 22,
+      "img": "https://static.wikia.nocookie.net/p__/images/e/e2/Zeus-Ascension.jpg/revision/latest?cb=20191228035634&path-prefix=protagonist",
+      "character": "Zeus",
+      "voiceActor": "Corey Burton",
+      "appearsIn": ["God of War II"," God of War III"," 2018s God of War"],
+      "Alias/es": ["Jupiter","The Grave Digger","Father","Lord Zeus"],
+        "species": ["God"],
+        "gender": "Male",
+        "about": "Zeus is the major character in God of War video game series. He is the Greek God of Lightning, the Sky, Law and Order, and the king of Mount Olympus. Though first a major protagonist in God of War, he later becomes the main antagonist for God of War II and one of the three main antagonists of God of War III (alongside Athena and Gaia).",
+        "quote": "e have faced far worse than this one fallen mortal. But we are the gods! We who the mortals worship. We who rule over this land. We who will not be swept aside by this petulant fool! Brothers, put aside the petty grievances that have splintered us for so long. We will unite. We will stand together. And I will wipe out this plague! Olympus...will prevail!"
+    }
 ] 
